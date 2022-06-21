@@ -2,4 +2,6 @@
 ## Day 32  
 In order to revise what i have been working on lately, i will create a food order app containing all the the new things i have learned and how to use them. Firstly i will be adding a Header to my App.  
 ## Day 33  
-I will be adding a Cart Button Component to my app and a Meals Component so as to build slowly and assessing what i have done so far. After that i will display in the app the individual meal items and work on adding a form in the future.
+I will be adding a Cart Button Component to my app and a Meals Component so as to build slowly and assessing what i have done so far. After that i will display in the app the individual meal items and work on adding a form in the future.  
+## Day 34  
+I will finish building components by adding a Form and a Cart to my app and applying a style to them. After some adjustments to the Form Input IDs my App is ready to go to the next level. 
