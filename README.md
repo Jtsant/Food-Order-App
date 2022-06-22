@@ -4,4 +4,7 @@ In order to revise what i have been working on lately, i will create a food orde
 ## Day 33  
 I will be adding a Cart Button Component to my app and a Meals Component so as to build slowly and assessing what i have done so far. After that i will display in the app the individual meal items and work on adding a form in the future.  
 ## Day 34  
-I will finish building components by adding a Form and a Cart to my app and applying a style to them. After some adjustments to the Form Input IDs my App is ready to go to the next level. 
+I will finish building components by adding a Form and a Cart to my app and applying a style to them. After some adjustments to the Form Input IDs my App is ready to go to the next level.  
+## Day 35  
+In my app now i want to make the cart usable and available to be clicked and hide every time i want. I will add a Modal via a React Portal looking like this ![Screenshot_1](https://user-images.githubusercontent.com/90603989/174860007-01de511f-eac0-4d0e-a6a7-ac6f267d5d05.png)  
+After managing its state my Cart is now accesible to be clicked and hide.
