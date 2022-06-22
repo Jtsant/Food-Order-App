@@ -7,4 +7,6 @@ I will be adding a Cart Button Component to my app and a Meals Component so as t
 I will finish building components by adding a Form and a Cart to my app and applying a style to them. After some adjustments to the Form Input IDs my App is ready to go to the next level.  
 ## Day 35  
 In my app now i want to make the cart usable and available to be clicked and hide every time i want. I will add a Modal via a React Portal looking like this ![Screenshot_1](https://user-images.githubusercontent.com/90603989/174860007-01de511f-eac0-4d0e-a6a7-ac6f267d5d05.png)  
-After managing its state my Cart is now accesible to be clicked and hide.
+After managing its state my Cart is now accesible to be clicked and hide.  
+## Day 36  
+I will be adding a Cart Context in my app and create 2 new files under the name of cartProvider.js and cart-context.js. My code looks like this now ![Screenshot_1](https://user-images.githubusercontent.com/90603989/175091311-162d7d7d-4500-4c15-bfb1-ca2f482eea94.png)
