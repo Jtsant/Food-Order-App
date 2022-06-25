@@ -14,4 +14,5 @@ I will be adding a Cart Context and use it in my app and create 2 new files unde
 I will be spending my day now working with Forward Refs and trying to understand their usage and how they intervene in my code. My MealItemForm.js file then gets upgraded and looks like this ![Screenshot_2](https://user-images.githubusercontent.com/90603989/175576977-91dc4101-4ed2-4f05-b310-538c46aff390.png)  
 ## Day 38  
 Today i will output items from the cart so that they can appear on cart screen more elegantly. My Cart.js file then looks like this ![Screenshot_1](https://user-images.githubusercontent.com/90603989/175770972-59f861e0-9256-4fa4-9200-b7d06562fd77.png)  
-After that i will work on more complex reducer logic and my CartProvider.js file looks like this ![Screenshot_2](https://user-images.githubusercontent.com/90603989/175772311-4d72ea8c-bd2e-4bb6-982f-e2320724dd4a.png)
+After that i will work on more complex reducer logic and my CartProvider.js file looks like this ![Screenshot_2](https://user-images.githubusercontent.com/90603989/175772311-4d72ea8c-bd2e-4bb6-982f-e2320724dd4a.png)  
+Next i will be working on the CartProvider.js and Cart.js files and try to get my remove handlers to make the items to be able to be removed from the cart.
